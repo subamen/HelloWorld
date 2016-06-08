@@ -6,3 +6,11 @@ c:\users\sureshb\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj
 c:\users\sureshb\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 c:\users\sureshb\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\sureshb\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\GitTestUser\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\GitTestUser\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\GitTestUser\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\GitTestUser\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\GitTestUser\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\GitTestUser\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\GitTestUser\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\GitTestUser\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
